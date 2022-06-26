@@ -1,0 +1,8 @@
+Git Graph
+GitLens
+Live Preview
+Live Share
+Docker
+Material Icon Theme
+Prettier
+Vim
